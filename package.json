@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-md-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.24",
+    "dotenv": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
